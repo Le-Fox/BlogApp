@@ -1,6 +1,3 @@
-export {}
-// pages/api/post/[id].ts
-
 import prisma from '../../../lib/prisma';
 
 // DELETE /api/post/:id
